@@ -1,22 +1,3 @@
-# Exercice 3 – Modification du site HTML
-
-Cet exercice montre comment mettre à jour un site statique déjà déployé sur OpenShift.
-
-## Contenu modifié
-
-Le fichier `index.html` devient :
-
-```html
-<!DOCTYPE html>
-<html>
-  <head><title>Site OpenShift Modifié</title></head>
-  <body>
-    <h1 style="color:blue;">Bienvenue sur mon site HTML modifié</h1>
-    <p style="color:green;">Ajout d’un paragraphe</p>
-  </body>
-</html>
------------------------------------
-
 # Déploiement sur OpenShift
 
 # 1.Relancer un build avec le nouveau code :

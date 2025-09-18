@@ -8,6 +8,7 @@ oc start-build site-html --from-dir=. --follow
 # 2. Vérifier le déploiement :
 
 oc get pods
+
 oc get route
 
 

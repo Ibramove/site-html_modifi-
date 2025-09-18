@@ -15,7 +15,7 @@ Le fichier `index.html` devient :
     <p style="color:green;">Ajout d’un paragraphe</p>
   </body>
 </html>
-
+-----------------------------------
 
 # Déploiement sur OpenShift
 
